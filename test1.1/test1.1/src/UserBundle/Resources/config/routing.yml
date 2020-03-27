@@ -1,0 +1,3 @@
+admin_homepage:
+    path:     /front
+    defaults: { _controller: UserBundle:Default:index }
